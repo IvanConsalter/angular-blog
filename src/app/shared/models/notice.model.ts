@@ -5,4 +5,5 @@ export interface Notice {
   texto: string;
   fonte: string;
   imgUrl: string;
+  urlNoticia: string;
 }

@@ -1,0 +1,21 @@
+<div class="container">
+  <div class="content">
+    <div class="content__cover">
+      <img src="{{ notice.imgUrl }}" alt="" srcset="">
+    </div>
+    <div class="content__title">
+      <h1>{{ notice.titulo }}</h1>
+      <hr />
+    </div>
+    <div class="content__description">
+      <p class="descricao">{{ notice.descricao }}</p>
+      <p class="texto">
+        {{ notice.texto }}
+      </p>
+    </div>
+    <div class="content_btns">
+      <a [routerLink]="['']">Voltar</a>
+      <a href="{{ notice.urlNoticia }}" target="_blank">Saiba mais</a>
+    </div>
+  </div>
+</div>
