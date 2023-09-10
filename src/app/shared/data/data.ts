@@ -9,7 +9,7 @@ export const data = [
   },
   {
     "id":"2",
-    "titulo": "Como a Nasa está se preparando para trazer um pedaço de asteroide para o deserto",
+    "titulo": "Como a Nasa está se preparando para trazer um pedaço de asteroide",
     "descricao": "Asteroides como o que está sendo explorado teriam colidido com a Terra no início da sua formação, e amostras colhidas podem revelar informações sobre o início do sistema solar",
     "texto": "Uma amostra de asteroide armazenada dentro de uma espaçonave da Nasa está prestes a chegar à Terra depois de viajar por quase dois anos e meio pelo espaço.",
     "fonte": "CNN Brasil",
